@@ -40,6 +40,7 @@ Users can browse and filter six laptop samples, view product details, save a loc
 
 ## User preferences
 
+- The user chose to keep this artifact as an interactive demo; do not enable real bookings, store real customer data, or connect real payments unless they explicitly request that change.
 - Keep the UI Arabic, RTL, and responsive on phones, tablets, and computers.
 - Use the existing official store logo.
 - Keep laptop names and model names in English.
